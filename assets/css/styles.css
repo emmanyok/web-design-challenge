@@ -192,11 +192,13 @@ body {
   color: #4aaaa5;
 }
 
+.imageNav {
+  display:flex;
+}
 .imageNav-photo {
-  width: 140px;
-
+  width: 150px;
   /* Box-model */
-  height: 140px;
+  height: 150px;
 }
 
 .imageNav-photo:hover {
